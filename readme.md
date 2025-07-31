@@ -26,3 +26,10 @@
 - Si escribo `Print` con mayúscula, Python no lo reconoce porque distingue entre mayúsculas y minúsculas.
 - Usar comillas simples o dobles funciona igual, mientras estén
 ![alt text](img/seccion1_3.png)
+
+#SECCIÓN 2
+
+## Laboratorio 1 - Literales de Python - Cadenas
+
+- Usé `\` para que Python muestre las comillas dobles dentro del texto y así la salida queda igual que la pedida.
+![alt text](img/seccion2.png)
