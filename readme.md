@@ -43,3 +43,13 @@
 - Es importante poner todo el cálculo dentro de `print()` para que Python lo muestre correctamente.
 - Los comentarios me ayudan a entender paso a paso cómo se resuelve cada operación.
 ![alt text](img/seccion3.png)
+
+#SECCIÓN 4  
+
+## Laboratorio 1 - Variables
+
+- Definí variables para guardar las manzanas de cada persona.
+- Imprimí los valores usando print y separando por comas.
+- Sumé las variables para calcular el total de manzanas.
+- Mostré el total y también probé imprimir los nombres junto con sus cantidades
+![alt text](img/seccion4.png)
