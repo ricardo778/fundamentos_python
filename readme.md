@@ -53,3 +53,10 @@
 - Sumé las variables para calcular el total de manzanas.
 - Mostré el total y también probé imprimir los nombres junto con sus cantidades
 ![alt text](img/seccion4.png)
+
+## Laboratorio 2 - Convertidor simple
+
+- Definí variables con valores en kilómetros y millas.
+- Usé fórmulas para convertir de millas a kilómetros y de kilómetros a millas.
+- Imprimí los resultados usando `round` para mostrar solo dos decimales. para mostrar solo dos decimales.
+![alt text](img/seccion4_2.png)
