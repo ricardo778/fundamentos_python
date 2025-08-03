@@ -69,3 +69,12 @@
 - Usé una expresión matemática para calcular el valor de `y`.
 - Imprimí el resultado final de `y` usando print.
 ![alt text](img/seccion4_3.png)
+
+## Laboratorio 4 - Ejercicios de operadores matemáticos
+
+- Resolví 16 ejercicios usando diferentes operadores: suma, resta, multiplicación, división, potencia y módulo.
+- En cada ejercicio seguí el orden de operaciones de Python: primero paréntesis, luego potencias, multiplicaciones/divisiones y al final sumas/restas.
+- Usé comentarios para explicar cada paso y entender cómo se llega al resultado.
+- Si uso `/`, el resultado es decimal; si solo uso `+`, `-`, `*`, `**` o `%`, el resultado es entero.
+- Es importante poner todo el cálculo dentro de `print()` para que Python lo muestre correctamente.
+![alt text](img/seccion4_4.png)
