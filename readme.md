@@ -25,11 +25,21 @@
 - Si quito los paréntesis, también da error porque en Python los print necesitan paréntesis.
 - Si escribo `Print` con mayúscula, Python no lo reconoce porque distingue entre mayúsculas y minúsculas.
 - Usar comillas simples o dobles funciona igual, mientras estén
-![alt text](img/seccion1_3.png)
+  ![alt text](img/seccion1_3.png)
 
 #SECCIÓN 2
 
 ## Laboratorio 1 - Literales de Python - Cadenas
 
 - Usé `\` para que Python muestre las comillas dobles dentro del texto y así la salida queda igual que la pedida.
-![alt text](img/seccion2.png)
+  ![alt text](img/seccion2.png)
+
+#SECCIÓN 3
+
+## Laborario 1 - Ejercicios de Operadores, Matemáticos
+
+- Resuelvo cada ejercicio siguiendo el orden de operaciones: primero paréntesis, luego potencias, multiplicaciones/divisiones y al final sumas/restas.
+- Si uso `/`, el resultado es decimal; si solo uso `+`, `-`, `*`, `**` o `%`, el resultado es entero.
+- Es importante poner todo el cálculo dentro de `print()` para que Python lo muestre correctamente.
+- Los comentarios me ayudan a entender paso a paso cómo se resuelve cada operación.
+![alt text](img/seccion3.png)
