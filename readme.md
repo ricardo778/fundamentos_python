@@ -60,3 +60,12 @@
 - Usé fórmulas para convertir de millas a kilómetros y de kilómetros a millas.
 - Imprimí los resultados usando `round` para mostrar solo dos decimales. para mostrar solo dos decimales.
 ![alt text](img/seccion4_2.png)
+
+##  Laboratorio 3 - Operadores y expresiones
+
+## Laboratorio 3 - Operadores y expresiones
+
+- Definí una variable `x` y la convertí a decimal con `float`.
+- Usé una expresión matemática para calcular el valor de `y`.
+- Imprimí el resultado final de `y` usando print.
+![alt text](img/seccion4_3.png)
